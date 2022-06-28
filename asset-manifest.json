@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49602f4a.css",
+    "main.js": "/static/js/main.cc0456ca.js",
+    "static/media/NFT.png": "/static/media/NFT.5e6c7337417e7dd38145.png",
+    "static/media/ModernMobsters.png": "/static/media/ModernMobsters.2d80bd310e337c7b4dd9.png",
+    "index.html": "/index.html",
+    "main.49602f4a.css.map": "/static/css/main.49602f4a.css.map",
+    "main.cc0456ca.js.map": "/static/js/main.cc0456ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49602f4a.css",
+    "static/js/main.cc0456ca.js"
+  ]
+}
